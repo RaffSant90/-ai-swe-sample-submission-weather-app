@@ -1,0 +1,6 @@
+com\raffaele\weatherapp\service\WeatherService.class
+com\raffaele\weatherapp\Main.class
+com\raffaele\weatherapp\client\OpenMeteoClient.class
+com\raffaele\weatherapp\model\WeatherData.class
+com\raffaele\weatherapp\ui\ConsoleUi.class
+com\raffaele\weatherapp\model\Location.class
